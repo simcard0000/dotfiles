@@ -3,7 +3,7 @@
 # dotfiles
 ☄️ Personal dotfiles for my WSL distribution! Currently under construction. Also contains other information related to workspace setup.
 
-### Using a Magic Keyboard with Windows [in progress]
+### Using a Magic Keyboard with Windows
 
 I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.apple.com/ca/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english?afid=p238%7Cstr3DVrrv-dc_mtid_1870765e38482_pcrid_590109978670_pgrid_133662840134_pntwk_g_pchan_online_pexid__&cid=aos-ca-kwgo-pla---slid---product-MQ052LL/A-CA) that I use with a Dell laptop running Windows 11. I remapped some keys on the Apple keyboard using [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/) as such so that they did not interfere with the original keyboard that is part of my laptop:
   * <kbd>F1</kbd> **Switch to Dark Mode** and <kbd>F2</kbd> **Switch to Light Mode**
@@ -23,4 +23,7 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
   * <kbd>F10</kbd>: <kbd>Volume Mute</kbd>
   * <kbd>F11</kbd>: <kbd>Volume Down</kbd>
   * <kbd>F12</kbd>: <kbd>Volume Up</kbd>
-  * <kbd>F13</kbd>: 
+  * <kbd>F13</kbd>: <kbd>⊞ Win</kbd>+<kbd>Print Screen</kbd>
+  * <kbd>F14</kbd>: <kbd>⊞ Win</kbd>+<kbd>Shift</kbd>+<kbd>C</kbd> **Open Colour Picker**
+  * <kbd>F15</kbd>: <kbd>⊞ Win</kbd>+<kbd>Shift</kbd>+<kbd>M</kbd> **Open Screen Ruler**
+  * <kbd>F16</kbd>: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Numpad 1</kbd>
