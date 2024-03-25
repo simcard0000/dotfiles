@@ -2,7 +2,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simcard0000/dotfiles.svg)
 # dotfiles
 ☄️ Personal dotfiles for my WSL distribution! Currently under construction. Also contains other information related to workspace setup. Go to:
-* [Using a Magic Keyboard with Windows](#using-a-magic-keyboard-with-windows) 
+* [Using a Magic Keyboard with Windows](#using-a-magic-keyboard-with-windows)
+* [Files in this Repository](#files-in-this-repository)
 
 ### Using a Magic Keyboard with Windows
 
@@ -11,7 +12,7 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
 | Function Key | Previous Key Combo | Does What? |
 | ------------ | ------------------ | ----- |
 | <kbd>F1</kbd> | N/A | 🌑 switch to dark mode [^1] |
-| <kbd>F2</kbd> | N/A | ☀️ switch to light Mode |
+| <kbd>F2</kbd> | N/A | ☀️ switch to light mode |
 | <kbd>F3</kbd> | <kbd>⊞ Win</kbd>+<kbd>Tab</kbd> | 🪟 open task view | 
 | <kbd>F4</kbd> | <kbd>⊞ Win</kbd>+<kbd>I</kbd> | ⚙️ open Settings |
 | <kbd>F5</kbd> | <kbd>⊞ Win</kbd>+<kbd>E</kbd> | 📁 open File Explorer | 
@@ -30,4 +31,8 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
 [^1]: Toggling dark/light mode was done by adapting this tutorial: [Windows Central - How to switch between Windows 10 light and dark modes on schedule automatically](https://www.windowscentral.com/how-switch-between-light-and-dark-colors-schedule-automatically-windows-10), and this "superuser" Stack Exchange question: [Setting a shortcut to trigger task scheduler](https://superuser.com/questions/57694/setting-a-shortcut-to-trigger-task-scheduler).
 [^2]: The [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) and the [Screen Ruler](https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler) are utilities only offered through [Microsoft PowerToys](https://github.com/microsoft/PowerToys). 
 
+### Files in this Repository
 
+* `.vscode/extensions.json` - a list of [VSCode](https://code.visualstudio.com/) extensions that I have currently installed, to be used as [recommendations](https://code.visualstudio.com/docs/editor/extension-marketplace#_workspace-recommended-extensions) in-app.
+* [sims-deep-pink](https://github.com/simcard0000/sims-deep-pink) - 💗 A dark theme for Mozilla products with pink highlights - this repository is specified as a submodule in `.gitmodules`.
+* `.bashrc` - config for the Bash shell environment.
