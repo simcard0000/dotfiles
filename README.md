@@ -36,13 +36,15 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
 * `images` - folder of images used in the README for this repo.
 * [sims-deep-pink](https://github.com/simcard0000/sims-deep-pink) - 💗 dark theme for Mozilla products with pink highlights - this repository is specified as a submodule in `.gitmodules`.
 * `.bashrc` - config for the Bash shell environment.
-* `.ssh/config` - config containing saved SSH connection information.
+* `.ssh/config` - config containing saved SSH connection information - needs [comments stripped before use](https://github.com/getify/JSON.minify/tree/python).
 
 ### Notes on Using Chargers/Power Adapters [^3]
 
-1. **Check polarity symbols**: The DC symbol is: ⎓. Look for polarity as a + or - next to the voltage values, or as the below images:
+1. **Check polarity symbols**: The DC symbol is: ⎓. Look for polarity as a + or - next to the voltage values, or as the below image:
+   
+   ![polarity symbols](https://github.com/simcard0000/dotfiles/blob/main/images/AC_adaptor_polarity.png)[^4]
 
-2. **Compare values**: The *input* of the device should be the **same** as the *output* of the adapter - the volts, amperes, and polarity values should all match! There is one other second-best situation though: if the adapter has the *correct voltage* and *polarity* - but the current is *greater* than what the device requires, you should be fine. The following chart shows various combinations from comparing the adapter to the device:
+3. **Compare values**: The *input* of the device should be the **same** as the *output* of the adapter - the volts, amperes, and polarity values should all match! There is one other second-best situation though: if the adapter has the *correct voltage* and *polarity* - but the current is *greater* than what the device requires, you should be fine. The following chart shows various combinations from comparing the adapter to the device:
 
     |Voltage|Amps|Polarity|Ok?|
     |-------|----|--------|---|
@@ -57,4 +59,5 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
 
 [^1]: Toggling dark/light mode was done by adapting this tutorial: [Windows Central - How to switch between Windows 10 light and dark modes on schedule automatically](https://www.windowscentral.com/how-switch-between-light-and-dark-colors-schedule-automatically-windows-10), and this "superuser" Stack Exchange question: [Setting a shortcut to trigger task scheduler](https://superuser.com/questions/57694/setting-a-shortcut-to-trigger-task-scheduler).
 [^2]: The [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) and the [Screen Ruler](https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler) are utilities only offered through [Microsoft PowerToys](https://github.com/microsoft/PowerToys).
-[^3]: Summarized from: [Complete Guide to Using the Correct Charger or Power Adapter (and What Happens If You Don’t)](https://www.groovypost.com/howto/choose-right-power-adapter-charger-phone-laptop/)
+[^3]: Summarized from: [Complete Guide to Using the Correct Charger or Power Adapter (and What Happens If You Don’t)](https://www.groovypost.com/howto/choose-right-power-adapter-charger-phone-laptop/).
+[^4]: [AC_adaptor_polarity.png](https://en.wikipedia.org/wiki/Polarity_symbols#/media/File:AC_adaptor_polarity.png) and [license](https://creativecommons.org/licenses/by-sa/3.0/).
