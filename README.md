@@ -56,6 +56,23 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
     |🟰|⬇️|🟰|❌|
 
 ### Other Applications
+This is a list of everything I have installed on my machine. Most of these apps I use often, however there are some that I no longer open - so this list needs to eventually get pruned.
+
+* Office 365 Suite (Word, PowerPoint, OneNote, etc.) → [get from UWaterloo](https://uwaterloo.ca/microsoft-365/)
+* [Adobe Acrobat DC/Reader (free version)](https://www.adobe.com/ca/acrobat/pdf-reader.html)
+* [Anaconda Navigator](https://www.anaconda.com/anaconda-navigator)
+    * [Jupyter Notebook](https://jupyter.org/)
+    * [Spyder IDE](https://www.spyder-ide.org/)
+* [Cygwin](https://www.cygwin.com/) / [MYSYS2](https://www.msys2.org/) / [MinGW](https://www.mingw-w64.org/) - some useful installation tutorials include: [Cygwin64 & MinGW-w64 (for Windows) - How To Install and Get Started](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Cygwin_HowTo.html) and [My Ultimate Cygwin Setup](https://guysherman.com/2013/11/02/my-ultimate-cygwin-setup/)
+* [Docker Desktop](https://www.docker.com/products/docker-desktop/)
+* [Google Cloud SDK](https://cloud.google.com/sdk)
+* [Eclipse IDE](https://eclipseide.org/)
+* [Java Development Kit - JDK](https://www.oracle.com/ca-en/java/technologies/downloads/)
+* [ANTLR](https://www.antlr.org/)
+* [Mozilla FireFox](https://www.mozilla.org/en-CA/firefox/)
+* [Mozilla Thunderbird](https://www.thunderbird.net/en-CA/)
+* [Git](https://git-scm.com/)
+* [GitHub Desktop](https://desktop.github.com/)
 
 [^1]: Toggling dark/light mode was done by adapting this tutorial: [Windows Central - How to switch between Windows 10 light and dark modes on schedule automatically](https://www.windowscentral.com/how-switch-between-light-and-dark-colors-schedule-automatically-windows-10), and this "superuser" Stack Exchange question: [Setting a shortcut to trigger task scheduler](https://superuser.com/questions/57694/setting-a-shortcut-to-trigger-task-scheduler).
 [^2]: The [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) and the [Screen Ruler](https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler) are utilities only offered through [Microsoft PowerToys](https://github.com/microsoft/PowerToys).
