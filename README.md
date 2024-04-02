@@ -56,7 +56,7 @@ I have an [Apple Magic Keyboard with Numeric Keypad - US English](https://www.ap
     |🟰|⬇️|🟰|❌|
 
 ### Other Applications
-This is a list of everything I have installed on my machine. Most of these apps I use often, however there are some that I no longer open - so this list needs to eventually get pruned.
+This is a list of things I have installed on my computer; however, it is not exhaustive. Most of these apps I use often, but there are some that I no longer open - so this list needs to eventually get pruned.
 
 * Office 365 Suite (Word, PowerPoint, OneNote, etc.) → [get from UWaterloo](https://uwaterloo.ca/microsoft-365/)
 * [Adobe Acrobat DC/Reader (free version)](https://www.adobe.com/ca/acrobat/pdf-reader.html)
@@ -73,7 +73,26 @@ This is a list of everything I have installed on my machine. Most of these apps 
 * [Mozilla Thunderbird](https://www.thunderbird.net/en-CA/)
 * [Git](https://git-scm.com/)
 * [GitHub Desktop](https://desktop.github.com/)
-
+* [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/)
+* [Inform 7](https://ganelson.github.io/inform-website/)
+* [Kong - Insomnia](https://insomnia.rest/)
+* [Microsoft Whiteboard](https://www.microsoft.com/en-ca/microsoft-365/microsoft-whiteboard/digital-whiteboard-app)
+* [Node.js](https://nodejs.org/en)
+* [Notion](https://www.notion.so/)
+* [AnyType](https://anytype.io/)
+* [PICO-8](https://www.lexaloffle.com/pico-8.php)
+* [Bitwarden](https://bitwarden.com/)
+* [Postgresql](https://www.postgresql.org/)
+* [PuTTY](https://www.putty.org/)
+* [Python](https://www.python.org/)
+* [Spotify](https://open.spotify.com/)
+* [Twine](https://twinery.org/)
+* [Visual Studio](https://visualstudio.microsoft.com/)
+* [Go Language](https://go.dev/)
+* [Dart](https://dart.dev/)
+* [Flutter](https://flutter.dev/)
+* [Figma](https://www.figma.com/)
+  
 [^1]: Toggling dark/light mode was done by adapting this tutorial: [Windows Central - How to switch between Windows 10 light and dark modes on schedule automatically](https://www.windowscentral.com/how-switch-between-light-and-dark-colors-schedule-automatically-windows-10), and this "superuser" Stack Exchange question: [Setting a shortcut to trigger task scheduler](https://superuser.com/questions/57694/setting-a-shortcut-to-trigger-task-scheduler).
 [^2]: The [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) and the [Screen Ruler](https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler) are utilities only offered through [Microsoft PowerToys](https://github.com/microsoft/PowerToys).
 [^3]: Summarized from: [Complete Guide to Using the Correct Charger or Power Adapter (and What Happens If You Don’t)](https://www.groovypost.com/howto/choose-right-power-adapter-charger-phone-laptop/).
