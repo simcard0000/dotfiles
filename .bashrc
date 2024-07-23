@@ -1,7 +1,7 @@
 sl
 cmatrix -s
 figlet Hi Simran! | lolcat
-curl wttr.in/?0FQ
+curl https://wttr.in/Toronto?0Fq
 fortune | cowsay -f tux | lolcat
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
