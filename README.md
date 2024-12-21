@@ -2,10 +2,14 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/simcard0000/dotfiles.svg)
 # dotfiles
 ☄️ Personal dotfiles for my WSL distribution! Currently under construction. Also contains other information related to workspace setup. Go to:
+* [Useful Links](#useful-links)
 * [Using a Magic Keyboard with Windows](#using-a-magic-keyboard-with-windows)
 * [Files in this Repository](#files-in-this-repository)
 * [Notes on Using Chargers/Power Adapters](#notes-on-using-chargerspower-adapters)
 * [Other Applications](#other-applications)
+
+### Useful Links
+* [Setting Up a UWaterloo Email with Mozilla Thunderbird](https://cs.uwaterloo.ca/twiki/view/CrySP/UWaterlooEmailThunderbird)
 
 ### Using a Magic Keyboard with Windows
 
