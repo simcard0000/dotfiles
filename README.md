@@ -103,6 +103,9 @@ This is a list of things I have installed on my computer; however, it is not exh
 * [Audacity](https://www.audacityteam.org/)
 * [CMake](https://cmake.org/)
 * [iTunes](https://support.apple.com/en-ca/HT210384)
+* [Xournal++](https://xournalpp.github.io/)
+* [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+* [Rekordbox](https://rekordbox.com/en/)
   
 [^1]: Toggling dark/light mode was done by adapting this tutorial: [Windows Central - How to switch between Windows 10 light and dark modes on schedule automatically](https://www.windowscentral.com/how-switch-between-light-and-dark-colors-schedule-automatically-windows-10), and this "superuser" Stack Exchange question: [Setting a shortcut to trigger task scheduler](https://superuser.com/questions/57694/setting-a-shortcut-to-trigger-task-scheduler).
 [^2]: The [Colour Picker](https://learn.microsoft.com/en-us/windows/powertoys/color-picker) and the [Screen Ruler](https://learn.microsoft.com/en-us/windows/powertoys/screen-ruler) are utilities only offered through [Microsoft PowerToys](https://github.com/microsoft/PowerToys).
